@@ -94,6 +94,26 @@ The current experience includes:
 
 This shifted Community Bridge from a small set of predefined searches toward a more reusable community-resource discovery framework.
 
+---## Screenshots
+
+![Landing page](assets/screenshots/1-community-bridge-landing.png)
+*Landing page framing the tool for both people seeking help and people looking to volunteer, with quick links into the most common categories.*
+
+![Location input](assets/screenshots/2-community-bridge-location-input.png)
+*Step 1 of the intake flow. The user enters county and state so every result returned afterward is scoped to real local programs rather than generic national links.*
+
+![Category selection](assets/screenshots/3-community-bridge-category-selection.png)
+*Step 2 of the intake flow. Users select one or more categories such as housing, food, jobs, or senior resources, and can select all at once if their need spans several areas.*
+
+![UpSkill and Trade Grants results](assets/screenshots/4-community-bridge-upskill-results.png)
+*Results page for UpSkill and Trade Grants in Fulton County, Georgia, showing a contextual tip above the listings and full contact details for each program.*
+
+![Explore further section](assets/screenshots/5-community-bridge-explore-further.png)
+*Explore Further section at the bottom of a results page, letting users load additional categories on demand instead of restarting the whole search.*
+
+![Volunteer results](assets/screenshots/6-community-bridge-volunteer-results.png)
+*Results for the I Want to Help path in Miami-Dade County, showing the tool also serves people looking to give back, not only people seeking assistance.*
+
 ---
 
 ## Human-in-the-Loop Design
