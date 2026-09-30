@@ -171,6 +171,8 @@ A failed search is treated differently from a legitimate search returning no res
 **Output sanitization**
 Structured AI output is validated before being shown to a user. Results that are abnormally long, repetitive, or malformed (a known failure mode of generative models) are filtered or trimmed server-side rather than displayed as-is.
 
+**Declined a domestic violence resources category**. A user asked whether Community Bridge could help people seeking domestic violence support. I decided not to add it. Shelter and safe-house locations are often kept confidential for safety, and I could not reliably prevent the AI from surfacing one by accident. Some requests are worth declining even when the intent is good.
+
 ---
 
 ## Architecture
